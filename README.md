@@ -7,3 +7,6 @@ This is the schematic so far, it is almost done. I learned how to make my own sy
 
 <img width="1827" height="1236" alt="image" src="https://github.com/user-attachments/assets/b0c4970e-eb98-4c1a-9098-fa35eec1d1ee" />
 I finished the schematic, it is by far the larges ont I have made. 2026-10-24
+<img width="1809" height="1494" alt="theremin_3d_rayt" src="https://github.com/user-attachments/assets/3b916182-3412-47cf-be46-1023898ffe11" />
+<img width="1071" height="1080" alt="theremin_pcb" src="https://github.com/user-attachments/assets/26f72733-2846-46a6-82bf-5c23aae5d3af" />
+I finished the PCB for the theremin.
