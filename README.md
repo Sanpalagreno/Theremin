@@ -4,3 +4,6 @@
 This second image is the work I have completed after my second session. I had to learn how to make new symbols because the part I want to use doesnt have a built in one.
 <img width="2154" height="1206" alt="image" src="https://github.com/user-attachments/assets/5e1e1fd4-ddad-4c98-bc35-0a1454c6c4c9" />
 This is the schematic so far, it is almost done. I learned how to make my own symbols for the parts KiCAD didnt have. It is going very well but I have a lot of work ahead. 2026-10-23
+
+<img width="1827" height="1236" alt="image" src="https://github.com/user-attachments/assets/b0c4970e-eb98-4c1a-9098-fa35eec1d1ee" />
+I finished the schematic, it is by far the larges ont I have made. 2026-10-24
